@@ -27,5 +27,3 @@ df = dataframe_from_result_table(response.primary_results[0])
 
 # Display the DataFrame
 print(df)
-
-print(df)
